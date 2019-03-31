@@ -43,107 +43,102 @@ Liberate Science
 
 ** Beschreibe Dein Projekt kurz (700 zeichen)
 
-Wissenschaftliche Kommunikationsinfrastruktur bauen mit p2p protocol
-Dat; komplette "after-the-fact" Publikationen umsetzen in teilweise
-und chronologisch rapportierte "as-you-go" Modulen (zb. Theorie,
-nächstes Vorhersagen, Design, Materialien, &c). Dies verbessert die
-Erfüllung der fünf Funktionen des Wissenschaftlichen
-Kommunikationssystems:
+Liberate Science baut mit dem p2p-Protokoll Dat eine dezentrale
+Wissensinfrastruktur auf.
 
-+ Entdeckung; alles immer gratis zugänglich
-+ Bewertung; Module bauen Wissensnetwerk, erleichtert Netwerkbewertungen
-+ Registrierung; weniger 'Publikationsbias' weil die erste
-  Rapportierung vor dem Resultat passiert
-+ Zertifizierung; empirische Zyklen eingebaut in Rapportierung
-+ Archivierung; jeder hilft, alles langfristich zu speichern
+Hier wird die Forschung fortlaufend kommuniziert, ist ohne Paywalls
+und geht auf Fragen der Reproduzierbarkeit und Replikation ein, indem
+die Offenheit der durchgeführten Forschung verändert wird.
+
+Die Forscher*innen kommunizieren jeden Schritt des Forschungsprozesses
+(Theorie, Vorhersagen, Design, Daten, Code usw.) mit direkten Links zu
+den vorhergehenden Schritten. Diese Links bieten eine bessere
+Herkunftsgeschichte von Befunden als jetzt in retrospektiven
+Veröffentlichungen. Dadurch wird auch ein Wissensnetzwerk aufgebaut,
+mit dem Forschung entdeckt, bewertet und geplant werden kann.
 
 ** Welches gesellschaftliche Problem willst Du mit Deinem Projekt lösen? (700 zeichen)
 
-Viel Forschungsgeld wird "weggeschmissen" durch schlechte Wissenschaft
-(zb. Reproduzierbarkeitskrise). Das Zurückerhalt der Gelder für die
-Forschungsgruppen und die Gesellschaft fällt niedriger aus, als sie
-nötig ist. Mit den großen Krisen, die der Mensch lösen muss in
-Zukunft, ist das ein "Wurzelproblem."
+Probleme der Reproduzierbarkeit führen dazu, dass viele
+Forschungsgelder verschwendet werden. In Anbetracht der Tatsache, dass
+sich die Menschheit in (schweren) Krisen befindet, ist dies ein
+Grundproblem, das den Fortschritt behindert.
 
-In der Kommunikation in der Wissenschaft gibt es viele
-Probleme. Einige Ursache sind folgende: lange Dauer, Unzugänglichkeit,
-selektive Publikation, textbasis statt eindrückliche Daten, Verzerrung
-des emprischen Zyklus. Viele dieser Ursachen werden nur partiell
-angezeigt, nicht in kombination aller Ursachen. Partielle Lösungen
-sind auch unpraktisch um die Totalität zu ändern.
+Ursachen für Forschungsabfälle entstehen im Veröffentlichungsprozess,
+der die Innovativität fördert über Strenge, und Datenfolterung oder
+voreingenommener Veröffentlichung verursacht. Die Veröffentlichung
+dauert Jahre und die finanzierten Ergebnisse sind nicht
+zugänglich. Nicht-Text-Informationen (z. B. Code, Daten) werden nicht
+effektiv kommuniziert.
 
-# Dieses Projekt löst die Problemen nicht nur in das System, aber auch
-# die Weise woauf das entwickelt wird. Jetzt ist es nur das heutige
-# System oder der Autobahn weil es alles Platform Systemen sind (mit
-# lock-in, genau so wie Facebook oder Twitter). Ich stell vor
-# Infrastruktur auf zu setzen, wo jedem eine andere Lösung auf bauen
-# kann wenn es an ein Paar Basisprinzipen [sufficed]. 
+Dies verhindert, dass Menschen ihr Wissen uneingeschränktes entdecken
+und produzieren können.
 
 ** Wie willst Du Dein Projekt technisch umsetzen? (1300 zeichen)
 
-Das Projekt kennt drei Elemente: API; CLI; GUI. Diese Interaktionen,
-wo die API die Grundlage von CLI/GUI formt, womit andere Projekten
-in der Zukunft auch ihre eigene CLI/GUI machen können für dieselbe
-Wissenschaftliche Information.
+Das Projekt hat drei interagierende Elemente: API; CLI; GUI. Die API
+formt die Grundlage von CLI/GUI, das ermöglicht, dass andere Projekten
+in der Zukunft auch ihre eigene CLI/GUI machen können um auf die
+gleichen wissenschaftlichen Informationen zuzugreifen.
 
-API wird geschrieben in NodeJS. Mit dem Standardmodul [[https://github.com/datproject/dat-node][dat-node]] von
-das Dat Project werden die Basisfunktionen implementiert, zb.:
+Die API wird geschrieben in NodeJS. Mit dem Standardmodul dat-node von
+das Dat Project werden die Basisfunktionen implementiert, z. B.:
 + Profil/Wissenschaftliche Module ersetzen
-+ Wissenschaftliche Module registrieren 
++ Wissenschaftliche Module registrieren
 + registrierte Modulen verifizieren
 + Netzwerk von Modulen aufbauen (Daten)
 + rehosting von spezifische Versionen von Modulen
 
-CLI vereinfacht es für Wissenschaftler, diese neue Infrastruktur zu
-nutzen. Das Format der CLI ist dabei vergleichbar mit Git (zb `libscie
-ACTION TYPE ARGS`). CLI wird in NPM modul implementiert und von den
-Wissenschftern in der Praxis getestet.
+CLI vereinfacht es für Wissenschaftlern, diese neue Infrastruktur zu
+nutzen. Das Format der CLI ist dabei vergleichbar mit Git
+(z. B. `libscie ACTION TYPE ARGS`). CLI wird als NPM Modul
+implementiert und von den Wissenschaftlern in der Praxis getestet.
 
-GUI wird in Elektron mit Vue.js gebaut. Hier wird eine intuitive
-Erfahrung aufgebaut, basierend auf die Material Design Prinzipen. GUI
-wird auch mit Wissenschaftler getestet, um so eine praktische
-Erfahrung zu entwicklen.
+Die GUI wird in Elektron mit Vue.js gebaut. Hier wird eine intuitive
+Erfahrung aufgebaut, basierend auf den Prinzipien des Material
+Design. Die GUI wird auch mit Wissenschaftlern getestet, um so eine
+praktische Erfahrung zu entwickeln.
 
 ** Welche ähnlichen Lösungen gibt es schon, und was wird Dein Projekt anders bzw. besser machen? (400 zeichen)
 
-Ähnliche Platforms, wo wissenschaftliche Studien kommuniziert worden
-wenn Wissenschaftler dies wünschen sind [[https://osf.io][Open Science Framework]],
-[[https://artifacts.ai][Artifacts]]. Diese zentralisieren die Daten und entscheiden teilweise,
-wie das Format wird. Dies bildet eine Unterstützung für das jetztige
-"after-the-fact" System. Allerdings bietet dies keine gründliche
-Alternativ.
+Ähnliche Plattformen, wo wissenschaftliche Studien kommuniziert werden
+wenn Wissenschaftler es wünschen, sind Open Science Framework
+(https://osf.io), Artifacts.ai (https://artifacts.ai). Diese
+zentralisieren die Daten und entscheiden teilweise, wie das Format
+wird. Dies bildet eine Unterstützung für das jetzige "after-the-fact"
+System. Allerdings bietet dies keine gründliche Alternative.
 
 ** Wer ist die Zielgruppe und wie soll Dein Tool sie erreichen?* (700 zeichen)
 
 Die Zielgruppe sind Early Career Researchers (ECRs), weil Sie oft die
-Problemen in die Wissenschaft erkennen, die Motivierung haben ihre
-verhältnis zu ändern, und nicht verstehen wieso anno 2019
-Forschungskommunikation noch immer so fundamentell Analog ist.
+Problemen in die Wissenschaft erkennen, die Motivierung haben ihr
+Forschungsverhalten zu ändern, und nicht verstehen wieso anno 2019
+Forschungskommunikation noch immer so fundamental analog ist.
 
 Ich bin selber eine Early Career Researcher und hab so ein Netzwerk
 von Kollegen über die ganze Welt die ich anschreiben kann. Auch hab
-ich letztes Jahr eine Fellowship bei Mozilla gemacht, die mir
-unterstützen Leuten zu erreichen. Dabei, geh ich noch immer auf
-Konferenzen, wo ich das Projekt auch vor kann tragen. So sind viele
-Optionen um die Erste Braucher zu finden.
+ich letztes Jahr eine Fellowship bei Mozilla gemacht, die mich
+unterstützt Leuten zu erreichen. Dabei geh ich noch immer auf
+Konferenzen, wo ich das Projekt auch vortragen kann. Somit gibt es
+viele Optionen um die ersten Nutzer*innen zu finden.
 
 ** Hast Du schon an der Idee gearbeitet? Wenn ja, beschreibe kurz den aktuellen Stand und erkläre die Neuerung. (700 zeichen)
 
-Ja. 
+Ja.
 
-Vor zwei Jahren hab ich das Algemeine Entwerp von der Infrastruktur
-recherchiert als Teil von meine Promovierung, um verschiedene
-Problemen in die Wissenschaft auf zu heben in eine konsistente und
-brauchbare Lösung. Die Recherchierung ist basiert auf
-Wissenschaftliche Studien und der Iterierung von das erste Entwerp mit
-Wissenschäftler.
+In den letzten zwei Jahren habe ich im Rahmen meiner Doktorarbeit das
+Infrastrukturdesign recherchiert, um verschiedene Problemen der
+Wissenschaft in eine konsistente und praktikable Lösung
+umzuwandeln. Die Forschung ist basiert auf wissenschaftlichen Studien
+in meta-research und der Iteration des ersten Entwurfs mit feedback
+von Wissenschaftlern.
 
-Das Projekt ist jetzt in die übersetzende Fase von das Entwerp in der
-Programmatur. Das Algemeine Entwerp habe ich letzter August
-finalisiert, und danach habe ich eine Zeit frei genommen weil ich
-durch meine alter Job überarbeitet war. Jetzt fange ich mit die
-Übersetzung an und suche Gelde das ich auch essen kann wenn ich daran
-Arbeit :)
+Das Projekt ist jetzt das Umsetzens des Entwurfes. Den Entwurf habe
+ich letzten August finalisiert und danach habe ich eine Zeitlang frei
+genommen weil ich durch meinen alten Job überarbeitet war. Jetzt fange
+ich mit das Umsetzen von das Idee in eine Realität an und suche Geld
+damit ich auch essen kann wenn ich daran arbeitet :)
+
 
 ** Link zum bestehenden Projekt (falls vorhanden)
 
@@ -151,17 +146,17 @@ https://chartgerink.github.io/2018dat-com
 
 ** Wie viele Stunden willst Du (bzw. will das Team) in den 6 Monaten Förderzeitraum an der Umsetzung arbeiten?*
 
-Ich kann Volzeit arbeiten an das Projekt für die 6 Monaten
-(01.09.2019-31.01.2020). Sonst ist es mindestens 6*4*40=960 Stunde.
+Ich kann Vollzeit arbeiten an dem Projekt für die 6 Monate
+(01.09.2019-31.01.2020). Somit sind es mindestens 6*4*40=960 Stunden.
 
 ** Skizziere kurz die wichtigsten Meilensteine, die Du (bzw. das Team) im Förderzeitraum umsetzen willst.
 
-+ Basisfunktionen modulaire Forschungskommunikation implementieren in API
-+ API in CLI aufheben
-+ Testrunde CLI mit Wissenschaftler (ein von jedem Kontinent)
-+ GUI Prototype (basic, kein weitere design)
-+ Testrunde GUI mit Wissenschaftler (wieder ein von jedem Kontinent)
-+ GUI v1.0 (mit design)
++ Basisfunktionen modulaire Forschungskommunikation implementieren in API     
++ CLI auf API bauen
++ Testrunde CLI mit Wissenschaftler (ein von jedem Kontinent)     
++ GUI Prototype (basic, kein weiteres design)     
++ Testrunde GUI mit Wissenschaftler (wieder ein von jedem Kontinent)     
++ GUI v1.0 (mit design)     
 
 ** Wenn meine Projektidee nicht gefördert wird, darf sie trotzdem auf prototypefund.de und in wissenschaftlichen Publikationen rund um das Programm veröffentlicht werden?*
 
