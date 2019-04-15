@@ -1,0 +1,212 @@
+* Shuttleworth Fellowship
+  DEADLINE: <2019-06-01 Sat>
+
+/Notes/
+
+- 1500 letters p/question
+- Submit [[https://www.shuttleworthfoundation.org/apply/form/][here]]
+
+** Application questions
+
+*** Tell us about the world as you see it
+
+/A description of the status quo and context in which you will be
+working/
+
+Nature is dominated by humanity---impending runaway climate change is
+a testament to that. In turn, society is dominated by profit
+maximization at the behest of everything and everyone---runaway
+financial, political, and social inequalities are testaments to
+that. These mutually reinforcing, systemic, worldwide effects are
+negative examples of humanity's capacity to alter our collective
+existential and societal outcomes. The status quo seems hopeless, but
+these same capacities provide optimism if harnassed for change.
+
+Effects of nature and society's domination manifest themselves in
+everyday lives. Polluted air kills millions. High school students
+punished for skipping school to protest climate change. Access to
+knowledge is artificially restricted. Cheap, dirty energy powers our
+digital media, which violates privacy for business. Medical drug
+prices are inflated at the expense of human health. Trading algorithms
+run amok for capital gain.
+
+Negative manifestations of domination are unequally distributed across
+individuals' everyday lives. Those at the top of financial, political,
+or social spectra simply retreat from issues. The rest face issues in
+their everyday lives without having the resources to do anything about
+it. It are those everyday lives where the issues manifest themselves
+most poignantly and the resources are most needed to change our
+collective reality for optimism. Everyday work life provides a way to
+change everyday lives and redistribute resources.
+
+*** What change do you want to make in the world?
+
+/A description of what you want to change about the status quo, in the
+world, your personal vision for this area/
+
+Universal suffrage and political emancipation theoretically exists in
+many societies; practically, inequality reigns supreme. People are
+often stuck in non-meaningful wage slavery, where they are made
+complicit by producing negative effects on others. 
+
+Labor power is humanity's ultimate tool yet few can wield its
+potential for emancipation, lacking the agency, time, energy, and
+money.
+
+Maintaining the status quo will at best (!) stagnate practical
+emancipation. Automation puts downward pressures on profit margins, by
+changing the ratio of constant:variable capital (i.e., machine:human),
+reducing dynamism and requiring increased exploitation to maximize
+profits (the nmodus operandi of a capitalistic society).
+
+We need new ways of organizing work to realize practical emancipation.
+
+Taking the next step with worker co-operatives could help. Current
+coops indicate for-profit can be (more) for the good of the community
+than profit maximization *and* be sustainable. I would like to attempt
+to extend this to a "for-profit for open" model to move away from the
+unsustainable proliferation of non-profits in the open community.
+
+Practically, the next steps to facilitate emancipation within a worker
+coop are:
++ direct, budgetary profit-sharing
++ reduced FTE load 40h => 32h
++ democratic management
++ uniform base-pay, variable task pay
+This way, workers will be provided more money, time, agency, and
+equity to emancipate and act on the runaway manifestations of
+domination.
+
+*** What do you believe has prevented this change to date?
+
+/Describe the innovations or questions you would like to explore
+during the fellowship year/
+
+The next step of the worker cooperative is made possible by recent
+changes in productive forces.
+
+To illustrate, the first coops stem from 1844, when the First
+Industrial Revolution was passing into the Second (i.e., changes in
+production). We are passing from the Second to the Third Industrial
+Revolution (Rifkin).
+
+What do these developments mean for organizating an effective worker
+cooperative? Coops remain scarce and venture capital funding has
+increased, which provide no breeding ground to investigate this
+question.
+
+The four pillars (profit sharing, democratic management, reduced
+workweek, base- & variable pay) are a result of the changes in
+productive forces and increased potential of digital support
+mechanisms, which I'd like to explore in practical circumstances.
+
+I am interested in openly documenting and evaluating benefits and
+issues that arise from this experiment in worker coops. Questions include
++ How does the status quo accomodate radically different business types?
++ How can the four pillars practically be implemented?
++ Is it easier/more difficult to find workers when implementing a
+  different kind of work?
++ How do workers evaluate the four pillars?
++ How do workers utilize the resources the four pillars provide them?
++ How do experts evaluate this kind of business organization as it
+  progresses?
+These questions and dialogue on these aspects will be a large part of
+the fellowship, while at the same time implementing a business idea.
+
+*** What are you going to do to get there?
+
+/A description of what you actually plan to do during the year/
+
+The worker co-operative is built around a business servicing public
+(research) project management infrastructure. Everything that is
+shared on this digital infrastructure will be accessible and reusable,
+facilitating creativity and participation in the process.
+
+This infrastructure is about documenting provenance of information
+across steps on an "as-you-go" basis and sharing it on a peer-to-peer
+network. It was originally designed to address key issues in science
+(e.g., reproducibility, access, exclusivity, delays, incentives), but
+has applicability in other domains where lots of information is
+produced and provenance is key (e.g., news reporting).
+
+In months 1-6, contractors develop the infrastructure and initiate
+outreach to potential target groups. Simultaneously, the legal and
+organizatory framework for the co-operative will be set up.
+
+End of month 6 the worker co-op is officialized, with the experimental
+principles enshrined in the statutes (profit sharing, democratic
+management, reduced workweek, base- & variable pay).
+
+In months 7-12, co-op building initiates. This includes several
+workers joining the co-op and building a collective
+culture. Contractors will be phased out for worker-owners over these
+months.
+
+During 7-12, further refinement of the infrastructure, testing with
+target groups, and implementing services to provide
+revenue. (Micro-)services such as archival and network/data/text
+mining tools could provide fruitful revenue streams.
+
+*** What challenges or uncertainties do you expect to face?
+
+This project tries to advance what a worker co-operative can be and
+implements a business idea that aims to reform scientific practice.
+
+I can imagine this seems like too much! Some of my uncertainties include:
+
+I see a different kind of business as necessary to change the means of
+production in science. No open community has produced a sustainable
+for-profit worker co-operative (AFAIK). I am uncertain about how the
+open community may respond to this, given prevalent anti-profit
+sentiment.
+
+Also, I expect the daily work environment to be so different that
+productivity will be affected when processes need to be
+reinvented. Progress on the business idea may slow as a result. For
+example, onboarding into a worker co-operative culture is very
+different; how does that affect getting up to speed?
+
+I also expect that finding workers to join the co-op might be
+difficult. At first, the business will require mostly highly educated
+workers, which average a substantial market salary. For universal base
+pay across all workers, regardless of work, this base pay will be
+lower than the "market" now provides.
+
+I am also excited and uncertain about the challenge of creating
+statutes for a worker coop. How to make these equitable, legally
+sound, inclusive, &c seems like a major challenge that will require
+much planning and consultation. 
+
+*** What part does openness play in your idea?
+
+Open is community to me and I feel like we can use more community in
+our work environments (and daily lives). In that sense, open has been
+key to inspiring the outlined vision in the first place.
+
+Working open is central in everything I have done over the last seven
+years. Nothing is done alone, hence, nothing should have results for a
+few.
+
+I think the values I outline for a "for-profit for open" business
+built on open architectures shows this: It puts the value produced
+right back into the hands of those producing it while attempting to
+create a democratized work environment. All of this in order to
+stimulate community building and provide the agency, money, energy,
+and time to act in crucial moments of humanity given the runaway
+domination.
+
+The importance of community comes from a deep gratitude for what the
+open community has meant for me over the years. We all struggle from
+issue to issue, feeling like we cannot have a meaningful impact. I
+know how much mental energy that feeling drains; the community has
+pulled me through and I hope to do contribute to this collective
+effort in this way.
+
+I am committed to serving progress in line with the open principles
+and any project I undertake needs to do so too, making openness a
+tenet in my life.
+
+*** Project name
+
+Liberate Science
+
