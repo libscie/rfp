@@ -25,17 +25,17 @@ emancipation.
 
 Organizations with a singular mission act at the expense of the
 externalities to that mission. A mission can be financial (e.g.,
-profit maximization) or a social mission (e.g., eradicating
-polio). 
+profit maximization) or social (e.g., eradicating polio).
 
 These missions are determined by the few at the expense of the
 many.
 
-When I finished my Mozilla Fellowship. I see my friends struggle at
-the expense of a mission, each in their own way, and they're the
-privileged bunch (lawyers, doctors, consultants, researchers)!
+When I finished my Mozilla Fellowship, I was overworked. I see my
+friends struggle at the expense of a mission, each in their own way,
+and they're the privileged bunch (lawyers, doctors, consultants,
+researchers)!
 
-These organisational structures are neither unsustainable or
+These organisational structures are neither sustainable or
 pleasurable. The circumstances of domination may differ, but the
 effects are similar. It's only going to get worse if we do nothing
 about it.
@@ -129,8 +129,8 @@ replicants of the OCW, profits again are directly shared to its
 members, which can be invested in issues those members want to act
 upon in OWCs, and so on.
 
-In months 1-6, contractors develop and test the Liberate Science
-infrastructure with early career researchers. Simultaneously, the
+In months 1-6, contractors develop the Liberate Science infrastructure
+and start testing with early career researchers. Simultaneously, the
 legal (e.g., bylaws) and organizational (e.g., onboarding)
 preparations for the cooperative will be implemented as part of the
 fellowship.
