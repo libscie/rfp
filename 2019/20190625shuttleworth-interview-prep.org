@@ -1,0 +1,51 @@
+* Interview preparation
+
+** [[https://en.wikipedia.org/wiki/Peter_Murray-Rust][PMR]] questions 
+
++ are there existing models to follow - what works, what doesn't
++ who are your friends and followers?
++ do you have ideas for income?  
++ what is the cooperative going to do? make things? solve problems?
++ tell us more about libscie.org as it is - when did it start , what is it doing? Is it the
+core of your proposal?  
++ will you be taking on staff? what will they be doing? Approximate timescale?
+
+Is this someone we could appoint?
+
+Helen, Karien, and Jason
+
++ want to find out about you (what you care about, look into your soul)
++ fellow > project
++ no trick questions
++ why are you doing this?
++ want practicalities as well as theory
+
+LIBER/LERU
++ what's your market?
+
+the disposable money for the european scientist is 90EUR
+we can engage with X% of Y researchers in europe
+
+/// make it sound as concrete as possible lots of untested ideas come
+to SW; make it clear that its somethign that people will be interested
+
+i want to support people who are willing to change their everyday work
+life in non-monetary ways
+
+talk about first year
++ organize dev, customers
++ work out formal implementation/protocols of the OWC
++ a considerable amount of community engagement/marketing
+  = how is it benefiting me?
++ what's the balance? of these things
++ how do you deal overreaching?
++ who are you going to bring on board to work with?
+  + localized to berlin !!!
+  + [[https://www.betahaus.com/][betahaus]]
++ you're going to have to take a risk on the people to start with
+  + conformoty and innovativeness
++ competition/who is already doing this
++ brief introduction how I came to the position !!!!
+  + mozilla
+  + flash grant
+  + what are you doing differently now that you didnt do when you started the mozfellow?
