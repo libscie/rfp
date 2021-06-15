@@ -33,6 +33,15 @@
       "contributions": [
         "fundingFinding"
       ]
+    },
+    {
+      "login": "raklein",
+      "name": "Richard Klein",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8781936?v=4",
+      "profile": "https://www.raklein.me",
+      "contributions": [
+        "fundingFinding"
+      ]
     }
   ],
   "contributorsPerLine": 7,
