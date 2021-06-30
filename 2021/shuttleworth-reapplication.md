@@ -2,64 +2,56 @@
 
 ## Tell us about the world as you see it.
 
-The systems we build as people are not natural, yet we are often told it is "just the way things are," "business as usual," and to attempt to "change things from within". 
+It is no longer obvious that the next generation will have it better than the last.
 
-Systems are intentional --- active, breathing, forceful. They gaslight us to believe they are natural in order to preserve themselves. Like a tsunami, these systems cannot be stopped at the coast when they are about to hit us. To mend the effects, we need to forcefully, actively, and with a long breath repair the systems to create something substantively different.
+The climate crisis threatens an entire generation and whole ecosystems. Social progress is stagnating and even regressing. How can we have it better, if we build worse?
 
-I am a researcher and I experienced firsthand the forcefulness of  existing knowledge systems, when I attempted to make seemingly logical improvements --- to reduce a career ladder that promotes natural selection of bad science and exclusive access; to promote a culture that builds people up instead of breaking them down. This led to mental health issues for myself, when my naivety was met with this intentional system.
+As a scientist, I see how we are building knowledge systems that leave it worse for the next generation. Market concentration in publishing. Careers built on systems that promote a natural selection of bad science. Fiscal austerity that pits researchers against each other to compete for excellence. How can we understand and improve the world, if we build worse knowledge systems?
 
-In that situation, I desired the agency to make a change in our knowledge systems. It also helped me realize that everyday, people everywhere experience issues in their daily lives and have ideas to change their systems. 
-
-I am convinced people can unlock a better world, if they have the resources (time, energy, agency, money) to struggle for it. Yet, with increasing social and financial inequity, ever fewer have those resources.
+I see the world through a lens of hopeless optimism: Believing in the courage to build and unlock better systems. Not to sit in the privilege of simply hoping it will become better, but to go through the struggle of trying to build better - even if we end up learning we struggled for the wrong thing for a moment.
 
 ## What change do you want to make in the world?
 
-As a scientist, I want to repair our broken knowledge systems. I experienced these issues firsthand - exclusive access, power abuses, selective publishing, nepotism, to name a few.
+As a scientist who experienced issues of the current knowledge system directly, I want to build better ways to produce and distribute knowledge.
 
-I tried reforming these systems from within for half a decade, but was put aside as inexperienced. Minor and limited successes required the approval of those with resources.
+I want scientists to be in control of what, where, when, and why they publish. During my doctoral research I had to publish in restrictive formats that didn't reflect my work (what), in journals that I did not agree with (where), with unnecessary delays (when), to pump up my CV (why). In the end, I concluded during my research that the "after-the-fact" nature of publications is where a lot of the issues come together.
 
-Based on my research findings, I unlocked a different knowledge system. In it, "after-the-fact" publications are regarded as the root of many research issues in academia, and is transformed into "as-you-go" communication of research steps. This results in near real time, continuous publishing, that bakes in open access, researcher controlled publishing, complete reporting, and continuous review of research.
+I am building a better knowledge system, which is based on continuous publishing of research modules. Elsevier researchers first pitched this in 1998, where it seems to have gotten lost in the transition from analog articles to digital articles.
 
-By enacting this change, there's also the opportunity to create a pay-it-forward ecosystem in which more and more people get the resources to enact their change. In this pay-it-forward ecosystem:
+"As-you-go" publishing of works gives researchers the opportunity to publish formats not before possible (e.g., dynamic documents), in near realtime, to create opportunities for continuous collaboration with researchers of any background. With the current status of the internet, it also permits for automated publishing, with much potential to strengthen data sharing.
 
-1. resources are used to grow the number of people working on changing (knowledge) systems together
-2. which leads to repairing (knowledge) systems
-3. which leads to valuable improvements
-4. which leads to opportunities to convert the value from those improvements into financial value
-5. which leads to financial resources to invest
-6. which leads to more financial resources (on average)
-7. See 1
+My vision is that continuous and automated publishing of research modules is conducive to a natural selection of good science because it embeds the chronology of events into the knowledge system, instead of abstracting it away. With the research process embedded in the way knowledge is published, it opens up a new dimension of knowledge that now remains unseen.
+
+This also creates opportunities for markets that revolve around more effectively discovering, producing, and synthesising those new dimensions of knowledge - which can be built to further strengthen the natural selection of good science.
 
 ## What are you going to do to get there?
 
-In year 1, I founded Liberate Science as a for-profit in Germany. With the time, energy, money, and agency I received from the Shuttleworth Foundation, I initiated the repairs and grew the people working on repairing knowledge systems (step 1 of the ecosystem). 
+In year 1 of the Shuttleworth Fellowship, I founded Liberate Science as a for-profit vessel to harness the financial resources into building the infrastructure for this vision, the publishing of "as-you-go" research modules.
 
-I started paying forward resources by implementing a four-day workweek (time and energy), decent living pay for all employees involved in the repairs regardless of role (net 2000EUR/month; money), and democratic management of the organization (agency).
+In year 2, together with the team, I launched the infrastructure and started the process of growing the number of researchers publishing in this "as-you-go" way. Nine months in, we are at 141 profiles and 41 published research steps. We launched a major research effort, the Many Paths project, to explore how deeply collaborations are affected by this way of publishing researchers (50 researchers signed up to this project). We are also becoming a reputable partner in building better knowledge systems.
 
-In year 2, we released the "as-you-go" knowledge system, implementing an open infrastructure that bakes in access, complete reporting, and researcher controlled publishing (step 2). 141 people have signed up to these repairs and published 48 research steps (step 3).
+In year 3, I will convert our reputation to build better knowledge systems into business opportunities for the organization. Our core vision has long-term business potential, and in order to bridge us into that period, I will create short- and medium-term business opportunities. In year 2, I started consulting for organizations like Science Magazine at a rate that, if extrapolated, requires 25% billable time to fund our entire operation. Other options include co-writing research grants for software engineering (already pending grants for 40,000EUR). This will sustain our work on the core vision beyond the Shuttleworth Fellowship.
 
-In year 3, I will grow the scale of the repairs and unlock step 4: Converting change value into financial value. This raises key questions: What is the experienced value of these repairs? What opportunities does that give? At the same time, steps 1 through 3 of the ecosystem will continue to receive energy to improve the momentum, which will provide more opportunities to find ways to produce and convert value.
-
-Beyond year 3, I will keep growing the pay-it-forward ecosystem to amplify my work, and others'. Year 3 will be about ensuring the ecosystem is healthy enough to continue on its own feet after the Shuttleworth Fellowship ends. This way, I can keep making repairs to knowledge systems in the future.
 
 ## What challenges or uncertainties do you expect to face?
 
-The pay-it-forward ecosystem I presented is a model, and the practicalities prove challenging to my training as a scientist.
+I am a scientist, yet increasingly I am doing work that is not science.
 
-A challenge is growing my skills in creating business opportunities at the right price. In recent months, I have grown my previously absent confidence to charge higher hourly rates, which builds my capacity to ask for the right price. 
+Sometimes I am uncertain about the path forward for me personally - do I want to ultimately go back to doing research, or do I want to stay at the helm of this organization I founded? The messy middle of founding and running an organization is a challenge for me on many days because I take this to heart.
 
-Now, I need to learn how to produce the business opportunities where I can get those rates. This means I will need to more actively develop and enact a business and sales strategy. Again, as a scientist, this is a definite challenge to retool myself for this purpose.
+My self-confidence has grown over the past years, but I am still uncertain about my business acumen. In recent months, I have grown my previously absent confidence to charge higher hourly rates, which builds my capacity to ask for the right price --- my challenge here is to keep building on that. Right now, I am personally struggling with a GDPR complaint, which is teaching me a lot on a personal and business level.
 
-An uncertainty I face is about scale. I am now primary responsibility holder for many key areas of the project. I am the founder, director, manager, bookkeeper, software developer, and scientist. I need to find the right people to include in the project to unlock a more effective use of my time resources. I have not been systematic about this before, as I am working through personal growth to do this in a way that is not only respectful to others, but also to myself. The uncertainty here is about articulating what that means in this context too - as I've learned that organizational growth requires personal growth.
+I want to challenge myself to share these learnings more openly - for building in open science is something not many people do. That kind of vulnerability, I would like to challenge myself with.
+
+An uncertainty I face is about scale. I am now the primary responsibility holder for many key areas of the project. I am the founder, director, manager, bookkeeper, software developer, and scientist. I definitely did not utilise the funds optimally for year 2 - I recognise my challenge in finding the right people to include in the project to unlock a more effective use of my time resources. I have not been systematic about this before, as I am working through personal growth to do this in a way that is not only respectful to others, but also to myself. The uncertainty here is about articulating what that means in this context too - as I've learned that organisational growth requires personal growth.
+
 
 ## What part does openness play in your idea?
 
-I have actively fought for open practices since 2012, extending from specific instances like equitable access to scientific publications to the equitable organisation model that I am building now.
+Openness to me has meant many things over the years, since I started considering it a core value in 2012. Regardless of its specific manifestation, open runs through the core of the vision.
 
-In what is now almost a decade, how I view open evolved. Where I first saw open as freedom of information, second as inclusivity and cooperation, I now see it as radical equity. 
+I consider open access to knowledge a human right - and will put my skin in the game to ensure my work is open. I have been lauded and doubted for my decision to reject authorship on a Science paper, because it would not be open.
 
-It represents people power --- the capability for people to collectively use or delegate their own power to set the agenda, participate in the dialogue that results in proposals, and consent to the outcomes.
+That same skin is in the game for this vision. I am willing to struggle for open in the shape of access, open in form of equity, and open in form of power distribution.
 
-Openness to me is the idea that through deliberation, we can come to better outcomes together than alone. This does not mean everybody has to participate, it requires clear definition of scope. Openness to me is a form of collectiveness, that recognises we exist through other people, and embraces it.
-
-Openness is a hard but rewarding thing to me personally, as it continuously requires to judge, reflect, and learn how our actions affect other people. I am by nature an inward facing person, and openness is how I connect with people.
+That also means that I bring open to the questions of building an organisation - what do the open values result in when determining profit distribution? What does it mean in setting wages? These are the kinds of decisions that help institutionalise the values of open, which is how important openness is to me in this project.
