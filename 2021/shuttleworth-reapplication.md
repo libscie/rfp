@@ -41,7 +41,7 @@ Sometimes I am uncertain about the path forward for me personally - do I want to
 
 My self-confidence has grown over the past years, but I am still uncertain about my business acumen. In recent months, I have grown my previously absent confidence to charge higher hourly rates, which builds my capacity to ask for the right price --- my challenge here is to keep building on that. Right now, I am personally struggling with a GDPR complaint, which is teaching me a lot on a personal and business level.
 
-I want to challenge myself to share these learnings more openly - for building in open science is something not many people do. That kind of vulnerability, I would like to challenge myself with.
+I want to challenge myself to share these learnings more openly - for building in open science is something not many people do. I would like to challenge myself with that kind of vulnerability, .
 
 An uncertainty I face is about scale. I am now the primary responsibility holder for many key areas of the project. I am the founder, director, manager, bookkeeper, software developer, and scientist. I definitely did not utilise the funds optimally for year 2 - I recognise my challenge in finding the right people to include in the project to unlock a more effective use of my time resources. I have not been systematic about this before, as I am working through personal growth to do this in a way that is not only respectful to others, but also to myself. The uncertainty here is about articulating what that means in this context too - as I've learned that organisational growth requires personal growth.
 
