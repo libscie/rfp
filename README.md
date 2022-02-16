@@ -1,10 +1,30 @@
-# Liberate Science funding proposals <img src="https://raw.githubusercontent.com/libscie/design/main/libscie-logomark-1024-square.png" align="right" height="64" />
+# Request For Proposals (RFP) - Liberate Science GmbH <img src="https://raw.githubusercontent.com/libscie/design/main/libscie-logomark-1024-square.png" align="right" height="64" />
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This repository tracks funding proposals submitted under the Liberate
-Science header. Proposals are separated per year in subfolders.
+This repository tracks funding proposals submitted (in part) by Liberate
+Science. Proposals are separated per year in subfolders. Not all proposals are hosted on GitHub, so please be sure to check out the README for each year.
+
+* [2022 proposals](https://github.com/libscie/rfp/tree/main/2022)
+* [2021 proposals](https://github.com/libscie/rfp/tree/main/2021)
+* [2020 proposals](https://github.com/libscie/rfp/tree/main/2020)
+* [2019 proposals](https://github.com/libscie/rfp/tree/main/2019)
+
+## Success rate
+
+Current success rate is 57% (4/7) with 1 proposal pending.
+
+| Date     | RFP                                         | Granted |
+|----------|---------------------------------------------|---------|
+| 30.01.22 | COESO - The AMAAL Project                   | ❓       |
+| 01.06.21 | Shuttleworth Year 3                         | ✅       |
+| 01.05.21 | NWO Open Science Fund - datacheck           | ✅       |
+| 01.05.21 | NWO Open Science Fund - openretractions.com | 🚫       |
+| 01.06.20 | Shuttleworth Year 2                         | ✅       |
+| 01.06.19 | Shuttleworth Year 1                         | ✅       |
+| 31.03.19 | Prototype fund                              | 🚫       |
+|          | NLNet proposal                              | 🚫       |
 
 ## Contributors ✨
 
