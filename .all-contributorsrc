@@ -42,10 +42,19 @@
       "contributions": [
         "fundingFinding"
       ]
+    },
+    {
+      "login": "AnnaSentinelle",
+      "name": "AnnaSentinelle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88331785?v=4",
+      "profile": "https://github.com/AnnaSentinelle",
+      "contributions": [
+        "fundingFinding"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "funding",
+  "projectName": "rfp",
   "projectOwner": "libscie",
   "repoType": "github",
   "repoHost": "https://github.com",
