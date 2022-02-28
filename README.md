@@ -13,11 +13,11 @@ Science. Proposals are separated per year in subfolders. Not all proposals are h
 
 ## Success rate
 
-Current success rate is 50% (4/8) with 1 proposal pending.
+Current success rate is 44.44% (4/9).
 
 | Date     | RFP                                         | Granted |
 |----------|---------------------------------------------|---------|
-| 30.01.22 | COESO - The AMAAL Project                   | ❓       |
+| 30.01.22 | COESO - The AMAAL Project                   | 🚫       |
 | 26.07.21 | Knowledge Exchange PID                      | 🚫       |
 | 01.06.21 | Shuttleworth Year 3                         | ✅       |
 | 01.05.21 | NWO Open Science Fund - datacheck           | ✅       |
