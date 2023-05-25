@@ -6,6 +6,7 @@
 This repository tracks funding proposals submitted (in part) by Liberate
 Science. Proposals are separated per year in subfolders. Not all proposals are hosted on GitHub, so please be sure to check out the README for each year.
 
+* [2023 proposals](https://github.com/libscie/rfp/tree/main/2023)
 * [2022 proposals](https://github.com/libscie/rfp/tree/main/2022)
 * [2021 proposals](https://github.com/libscie/rfp/tree/main/2021)
 * [2020 proposals](https://github.com/libscie/rfp/tree/main/2020)
