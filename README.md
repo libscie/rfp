@@ -14,10 +14,13 @@ Science. Proposals are separated per year in subfolders. Not all proposals are h
 
 ## Success rate
 
-Current success rate is 44.44% (4/9).
+Current success rate is 33.333% (4/12).
 
 | Date     | RFP                                         | Granted |
 |----------|---------------------------------------------|---------|
+| 2023-05-12 | [NWO Open Science Fund ](https://www.researchequals.com/modules/p7ec-pxxb)                         | ?       |
+| 2023-04-14 | [Open Science Conference 2023](https://www.researchequals.com/modules/hqgh-yxx6)                   | 🚫       |
+| 2023-03-28 | [Open Access Tage 2023 talk](https://www.researchequals.com/modules/j2rb-zpk3)                      | 🚫       |
 | 30.01.22 | COESO - The AMAAL Project                   | 🚫       |
 | 26.07.21 | Knowledge Exchange PID                      | 🚫       |
 | 01.06.21 | Shuttleworth Year 3                         | ✅       |
