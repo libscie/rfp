@@ -54,6 +54,7 @@
     }
   ],
   "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": true,
   "projectName": "rfp",
   "projectOwner": "libscie",
   "repoType": "github",

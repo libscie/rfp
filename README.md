@@ -27,9 +27,9 @@ Current success rate is 33.333% (4/12).
 | 01.05.21 | NWO Open Science Fund - datacheck           | ✅       |
 | 01.05.21 | NWO Open Science Fund - openretractions.com | 🚫       |
 | 01.06.20 | Shuttleworth Year 2                         | ✅       |
+| 01.04.20 | NLNet proposal                              | 🚫       |
 | 01.06.19 | Shuttleworth Year 1                         | ✅       |
 | 31.03.19 | Prototype fund                              | 🚫       |
-|          | NLNet proposal                              | 🚫       |
 
 ## Contributors ✨
 
